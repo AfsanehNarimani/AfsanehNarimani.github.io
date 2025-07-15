@@ -1,10 +1,3 @@
-**Afsaneh Narimani**
-Tehran, Iran
-
-afsane.narimani@gmail.com | (+98) 913- 425 - 2578
-
-LinkedIn
-
 **Profile**
 
 Motivated researcher with a solid foundation in artificial intelligence and deep learning, with
