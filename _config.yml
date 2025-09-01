@@ -1,3 +1,13 @@
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 logo: /assets/img/logo.jpg
-
+title: Afsaneh Narimani
+description: Motivated researcher with a solid foundation in artificial intelligence and deep learning, with specific expertise in medical image analysis and backend system design
+favicon: true
+color-scheme: light
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/AfsanehNarimani
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/afsaneh-narimani-31211470/
