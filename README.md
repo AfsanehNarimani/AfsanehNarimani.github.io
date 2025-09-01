@@ -88,7 +88,7 @@ _Behko Co._ | 2014 – 2016
 
 ## Certificates
 
-* [Machine Learning - DeepLearning.AI](https://www.coursera.org/account/accomplishments/specialization/certificate/YPIGDYEAF3JB)
+* [Machine Learning Specialization - Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/YPIGDYEAF3JB)
 * [Data Structures and Performance - Coursera](https://www.coursera.org/account/accomplishments/certificate/ZNV8LKNSR5KT)
 
 ## Languages
