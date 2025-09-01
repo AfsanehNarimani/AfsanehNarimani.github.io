@@ -1,7 +1,6 @@
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 logo: /assets/img/logo.jpg
 title: Afsaneh Narimani
-description: Motivated researcher with a solid foundation in artificial intelligence and deep learning, with specific expertise in medical image analysis and backend system design
 favicon: true
 color-scheme: light
 platforms:
