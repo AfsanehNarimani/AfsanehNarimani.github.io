@@ -5,6 +5,9 @@ description: Motivated researcher with a solid foundation in artificial intellig
 favicon: true
 color-scheme: light
 platforms:
+  - name: Email
+    icon: <i class="fa-solid fa-evelope"></i>
+    link: mailto:afsane.narimani@gmail.com
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/AfsanehNarimani
