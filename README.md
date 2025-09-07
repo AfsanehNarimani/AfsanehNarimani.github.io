@@ -73,7 +73,7 @@ _TID Development Co._ | 2020 – Present
 **.NET Developer**  
 _TID Development Co._ | 2019 – 2020
 
-* Contributed to systems including Anti-Money Laundering and Facilities Management for
+* Contributed to systems, including Anti-Money Laundering and Facilities Management for
     Tejarat Bank
 
 **.NET Developer**  
@@ -95,3 +95,4 @@ _Behko Co._ | 2014 – 2016
 
 * **Persian (Farsi):** Native
 * **English:** Fluent
+* **French:** Beginner
