@@ -1,6 +1,6 @@
 # Profile
 
-AI-focused software engineer with 5+ years of experience in backend development for large-scale banking systems. Strong academic foundation in artificial intelligence and deep learning, with research expertise in medical image analysis. Passionate about applying AI/ML to real-world challenges, particularly in healthcare. Experienced in designing secure, high-performance backend systems and integrating advanced AI solutions into practical applications.
+AI-focused software engineer with 7+ years of experience in backend development for large-scale banking systems. Strong academic foundation in artificial intelligence and deep learning, with research expertise in medical image analysis. Passionate about applying AI/ML to real-world challenges, particularly in healthcare. Experienced in designing secure, high-performance backend systems and integrating advanced AI solutions into practical applications.
 
 ## Research Interests
 
@@ -29,6 +29,13 @@ _[Isfahan University of Technology](https://english.iut.ac.ir), Isfahan, Iran_ |
 * **Thesis:** Enhancing Snort Intrusion Detection System with Anomaly Detection
 
 ## Research Experience
+
+**Research Assistant (Part-time)**  
+_[NeuraAITex](https://www.linkedin.com/company/neuraitex/about/)_ | 2025 – Present  
+
+* Conducting research on AI-driven medical imaging and deep learning applications  
+* Exploring advanced methods in MRI analysis and computer vision for healthcare  
+* Contributing to model development and evaluation for medical diagnostics  
 
 **Brain Tumor Segmentation Using CNNs (M.Sc. Thesis)**
 
