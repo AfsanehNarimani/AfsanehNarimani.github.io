@@ -1,6 +1,6 @@
 # Profile
 
-AI-focused software engineer with 7+ years of experience in backend development for large-scale banking systems and current research in AI-driven medical imaging. Currently working as a **Research Assistant (Part-time) at [NeuraAITex](https://www.linkedin.com/company/neuraitex/about/)**, focusing on MRI analysis, deep learning, and computer vision for healthcare. Passionate about applying AI/ML to real-world challenges, particularly in healthcare and medical imaging.
+AI-focused software engineer with 7+ years of experience in backend development for large-scale banking systems and current research in AI-driven medical imaging. Currently working as a **Research Assistant (Part-time) at [NeurAITex (NeurAI Tech Medical Innovation)](https://www.linkedin.com/company/neuraitex/about/)**, a leading research hub at the University of Tehran. At NeurAITex, I contribute to **AI and ML innovations in neurology and neurosurgery**, focusing on MRI analysis, computer vision, and intelligent diagnostic systems that enhance surgical precision and patient outcomes. Passionate about applying AI/ML to real-world challenges, particularly in healthcare and medical imaging.
 
 ## Research Interests
 
@@ -30,12 +30,11 @@ _[Isfahan University of Technology](https://english.iut.ac.ir), Isfahan, Iran_ |
 
 ## Research Experience
 
-**Research Assistant (Part-time)**  
-_[NeuraAITex](https://www.linkedin.com/company/neuraitex/about/)_ | 2025 – Present  
-
-* Conducting research on AI-driven medical imaging and deep learning applications  
-* Exploring advanced methods in MRI analysis and computer vision for healthcare  
-* Contributing to model development and evaluation for medical diagnostics  
+[NeurAITex (NeurAI Tech Medical Innovation)](https://www.linkedin.com/company/neuraitex/about/) | 2025 – Present  
+- Conducting research on AI-driven medical imaging and deep learning applications in neurology and neurosurgery  
+- Exploring MRI analysis and computer vision techniques for improving diagnostic accuracy and surgical outcomes  
+- Collaborating with engineering and medical students in a multidisciplinary research environment at the University of Tehran  
+- Contributing to the design of intelligent algorithms and AI-powered healthcare systems
 
 **Brain Tumor Segmentation Using CNNs (M.Sc. Thesis)**
 
