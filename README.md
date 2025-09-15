@@ -1,6 +1,6 @@
 # Profile
 
-AI-focused software engineer with 7+ years of experience in backend development for large-scale banking systems. Strong academic foundation in artificial intelligence and deep learning, with research expertise in medical image analysis. Passionate about applying AI/ML to real-world challenges, particularly in healthcare. Experienced in designing secure, high-performance backend systems and integrating advanced AI solutions into practical applications.
+AI-focused software engineer with 7+ years of experience in backend development for large-scale banking systems and current research in AI-driven medical imaging. Currently working as a **Research Assistant (Part-time) at [NeuraAITex](https://www.linkedin.com/company/neuraitex/about/)**, focusing on MRI analysis, deep learning, and computer vision for healthcare. Passionate about applying AI/ML to real-world challenges, particularly in healthcare and medical imaging.
 
 ## Research Interests
 
