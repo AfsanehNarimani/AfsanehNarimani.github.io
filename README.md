@@ -1,6 +1,7 @@
 # Profile
 
-AI-focused software engineer with 7+ years of experience in backend development for large-scale banking systems and current research in AI-driven medical imaging. Currently working as a **Research Assistant (Part-time) at [NeurAITex (NeurAI Tech Medical Innovation)](https://www.linkedin.com/company/neuraitex/about/)**, a leading research hub at the University of Tehran. At NeurAITex, I contribute to **AI and ML innovations in neurology and neurosurgery**, focusing on MRI analysis, computer vision, and intelligent diagnostic systems that enhance surgical precision and patient outcomes. Passionate about applying AI/ML to real-world challenges, particularly in healthcare and medical imaging.
+Engineer and AI specialist with 7+ years of industry experience building secure, scalable software systems for 9M+ financial-service users and conducting research in medical AI. Skilled in deep learning, system design, and innovative problem-solving. Dedicated to applying technical expertise toward entrepreneurial innovation and engineering
+design challenges.
 
 ## Research Interests
 
@@ -56,7 +57,16 @@ _[Isfahan University of Technology](https://english.iut.ac.ir), Isfahan, Iran_ |
 
 * Applied classical machine learning to motion signal classification using
     accelerometer/gyroscope data
+## Entrepreneurial & Innovation Interests
 
+* Engineering solutions for healthcare technology
+
+* AI-driven product development and commercialization
+
+* FinTech innovation and digital transformation
+
+* Venture creation and lean startup methodologies
+  
 ## Technical Skills
 
 * **Programming Languages:** Python, Java, C++, C, C#, MATLAB
