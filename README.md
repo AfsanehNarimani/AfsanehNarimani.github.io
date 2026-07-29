@@ -1,8 +1,10 @@
 # Profile
 
-Software Engineer and AI specialist with 7+ years of industry experience building secure, scalable backend systems for large-scale financial services and conducting research in medical AI.
+Software Engineer and AI/ML Engineer with 7+ years of industry experience building secure, scalable backend systems for large-scale financial services and developing AI-driven solutions for digital banking and eKYC.
 
-I have worked on mobile banking platforms serving 9M+ users, with hands-on experience in core digital banking features including card-to-card transfers, card balance inquiry, bill payment by card, mobile top-up, internet package purchase, card-based payment flows, account services, and high-throughput backend APIs.
+I previously worked on mobile banking platforms serving 9M+ users, with hands-on experience in core banking features including card-to-card transfers, card balance inquiry, bill payment by card, mobile top-up, internet package purchase, card-based payment flows, and account services.
+
+I am currently working as an AI/ML Engineer in the Digital Banking Platform team, focusing on face verification, eKYC, computer vision, model benchmarking, and AI components for digital banking systems.
 
 My background combines Java backend engineering, microservices, system design, AI research, computer vision, and deep learning. I am especially interested in building intelligent, reliable, and production-ready systems for FinTech, healthcare technology, and AI-driven digital products.
 
@@ -254,6 +256,7 @@ The project involved:
 * **Backend Engineering:** Java, Spring Boot, REST APIs, Microservices, API Design
 * **Financial Systems:** Mobile Banking, Card Services, Account Services, Payment Flows
 * **ML & DL Tools:** Scikit-learn, TensorFlow, Keras, PyTorch, NumPy, Pandas, OpenCV
+* **AI/ML Engineering:** Face Verification, eKYC, Model Benchmarking, ONNX Runtime, Computer Vision, Liveness Detection
 * **Computer Vision:** Face Verification, Image Processing, Medical Imaging, Segmentation
 * **Data Analysis:** SQL, Excel, Matplotlib
 * **Databases:** Oracle, SQL Server, Redis
