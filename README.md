@@ -12,16 +12,13 @@ My background combines Java backend engineering, microservices, system design, A
 
 ## Research Interests
 
-* Artificial Intelligence
-* Machine Learning
-* Deep Learning
-* Medical Imaging & Analysis
-* Image Processing & Computer Vision
-* Face Verification & eKYC
-* Data Analytics
-* Health Informatics
-* FinTech AI and Digital Banking Systems
-
+* Medical Image Analysis and Multimodal Neuroimaging
+* Generative AI and Latent Diffusion Models
+* Deep Learning and Computer Vision
+* Image Segmentation and Spatial Representation Learning
+* Statistical Model Evaluation and Reliable AI
+* Clinical Applications of Machine Learning
+  
 ---
 
 ## Education
@@ -45,21 +42,20 @@ _[Isfahan University of Technology](https://english.iut.ac.ir), Isfahan, Iran_ |
 ## Professional Experience
 
 ### AI/ML Engineer  
-_Digital Banking Platform, TID Development Co._ | June 2026 – Present
+_Digital Banking Platform, TID Development Co._ | May 2026 – Present
 
 * Working as an AI/ML Engineer in the Digital Banking Platform team, focusing on AI-driven solutions for digital banking and identity verification.
-* Designing and developing AI components for eKYC and face verification use cases.
+* Developing and evaluating computer-vision and deep-learning components for video-based electronic Know Your Customer (eKYC) workflows.
 * Building benchmark frameworks to evaluate face verification models based on accuracy, FAR, FRR, EER, TAR@FAR, FPS, model size, and deployment readiness.
-* Evaluated multiple face recognition models including ArcFace, MobileFaceNet, GhostFaceNet, EdgeFace, FaceNet, and AdaFace.
-* Selected EdgeFace as the initial face verification candidate for the eKYC MVP based on benchmark results and CPU-friendly deployment characteristics.
-* Working on the design of a stateless AI verification service that can be consumed by backend systems and client applications.
-* Exploring active liveness, passive liveness, anti-spoofing, and video-based verification flows for digital onboarding.
-* Collaborating with backend, product, and platform teams to design AI services that fit into scalable banking architectures.
+* Working on face verification, head-pose analysis, challenge-response validation, and passive liveness detection.
+* Built an LFW-based face-verification evaluation pipeline to examine similarity distributions and thresholds across assurance levels, with reproducible CSV/JSON/NPZ outputs.
+* Implementing Python-based inference services with FastAPI, OpenCV, and ONNX Runtime, with attention to configuration, testing, and operational readiness.
+* Collaborating with engineering and product teams on integration into digital banking services.
 
 ### Software Developer  
-_Mobile Banking Platform, TID Development Co._ | 2020 – June 2026
+_Mobile Banking Platform, TID Development Co._ | May 2020 – Apr 2026
 
-* Developed secure and scalable backend services for a large-scale mobile banking platform serving 9M+ users.
+* Developed and maintained secure Java and Spring Boot REST services for a mobile banking platform serving more than 9 million users.
 * Worked on core mobile banking features including:
   * Card-to-card money transfer
   * Card balance inquiry
@@ -77,7 +73,7 @@ _Mobile Banking Platform, TID Development Co._ | 2020 – June 2026
 * Collaborated with product, mobile, backend, QA, and infrastructure teams to deliver production banking features.
 
 ### .NET Developer  
-_TID Development Co._ | 2019 – 2020
+_TID Development Co._ | May 2019 – Apr 2020
 
 * Contributed to backend systems in the financial-services domain.
 * Worked on enterprise systems including Anti-Money Laundering and Facilities Management systems.
@@ -101,6 +97,19 @@ _Behko Co._ | 2014 – 2016
 ---
 
 ## Selected Projects
+
+### Diffusion-Derived Latent Deviation Mapping — BraTS 2024
+
+**Independent research | Sep 2026 – Present**
+**Topics:** Multimodal Brain MRI · 3D Latent Diffusion · DDIM · Spatial Analysis · Statistical Evaluation
+Developed a reproducible 3D latent-diffusion pipeline to investigate whether diffusion-derived latent deviation features carry spatial information associated with brain tumor pathology, without using segmentation masks during feature generation.
+* Used **BraTS 2024 Adult Glioma Post-Treatment v2** (1,350 cases; fixed 1,080/270 train/development-validation split).
+* Implemented train-derived latent normalization, deterministic DDIM reconstruction, whole-volume sliding-window inference, exact latent-to-voxel correspondence, and support-aware aggregation.
+* Performed case-level statistical analysis using bootstrap confidence intervals, Wilcoxon tests, and Holm correction.
+* Observed **median Whole Tumor AUROC 0.614 [0.606, 0.621]; 252/270 cases (93.3%)** had higher median deviation in tumor-containing latent cells than in clean background.
+* Interpreted findings as a modest but consistent spatial association, not evidence of established diagnostic or segmentation performance.
+
+**Code:** [brain-tumor-normative-diffusion](https://github.com/AfsanehNarimani/brain-tumor-normative-diffusion)
 
 ### Face Verification Benchmark for eKYC
 
@@ -188,45 +197,6 @@ This project strengthened my background in medical image analysis, deep learning
 
 ---
 
-### Image Forgery Detection Using Evolutionary Algorithms
-
-Designed a genetic algorithm-based method to identify tampered image regions.
-
-The project focused on:
-
-* Digital image processing
-* Copy-move forgery detection
-* Feature extraction
-* Optimization using evolutionary algorithms
-
----
-
-### Word Spotting with Recurrent Neural Networks
-
-Developed RNN-based methods for textual element recognition in scanned documents.
-
-The project focused on:
-
-* Sequence modeling
-* Document image analysis
-* Recurrent neural networks
-* Pattern recognition
-
----
-
-### Human Activity Recognition from Smartphone Sensors
-
-Applied machine learning methods to classify human activities using smartphone sensor data.
-
-The project involved:
-
-* Accelerometer and gyroscope data
-* Feature extraction
-* Classical machine learning models
-* Motion signal classification
-
----
-
 ## Research Experience
 
 ### Research Assistant  
@@ -252,15 +222,12 @@ The project involved:
 
 ## Technical Skills
 
-* **Programming Languages:** Python, Java, C++, C, C#, MATLAB
+* **Research / ML:** Medical image analysis, multimodal brain MRI, image segmentation, latent diffusion, model evaluation, bootstrap-based evaluation
+* **AI/ML Frameworks:** PyTorch, TensorFlow, Keras, scikit-learn, OpenCV, ONNX Runtime, NumPy, Pandas, FastAPI
+* **Programming:** Python, Java, C++, C, C#, MATLAB
 * **Backend Engineering:** Java, Spring Boot, REST APIs, Microservices, API Design
-* **Financial Systems:** Mobile Banking, Card Services, Account Services, Payment Flows
-* **ML & DL Tools:** Scikit-learn, TensorFlow, Keras, PyTorch, NumPy, Pandas, OpenCV
-* **AI/ML Engineering:** Face Verification, eKYC, Model Benchmarking, ONNX Runtime, Computer Vision, Liveness Detection
-* **Computer Vision:** Face Verification, Image Processing, Medical Imaging, Segmentation
-* **Data Analysis:** SQL, Excel, Matplotlib
 * **Databases:** Oracle, SQL Server, Redis
-* **DevOps & Observability:** Docker, Jenkins, CI/CD, Prometheus, Grafana
+* **Infrastructure & Observability::** Docker, Jenkins, CI/CD, Prometheus, Grafana
 * **Methodologies:** Agile, Scrum, Clean Architecture, Test-Driven Development
 
 ---
