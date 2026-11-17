@@ -197,6 +197,26 @@ This project strengthened my background in medical image analysis, deep learning
 
 ---
 
+## Technical Writing
+
+I write about practical AI engineering, machine learning evaluation, and software engineering, focusing on reproducible experiments, engineering trade-offs, and production-oriented systems.
+
+### Published Articles
+
+**[Understanding Concurrency in Python: From Threads to AsyncIO and Parallelism](https://medium.com/@afsane.narimani/understanding-concurrency-in-python-from-threads-to-asyncio-and-parallelism-6423378d0fd7)**  
+*Python · AsyncIO · Multithreading · Multiprocessing · Thread Safety*
+
+A practical guide to concurrency and parallelism in Python, covering processes, threads, coroutines, event loops, synchronization, the GIL, and choosing an execution model for real-world applications.
+
+**[Benchmarking Face Verification Models for an eKYC System](https://medium.com/@afsane.narimani/benchmarking-face-verification-models-for-an-ekyc-system-bbfa0e219040)**  
+*Computer Vision · Face Verification · Model Evaluation · eKYC*
+
+A comparison of six face verification models using LFW, considering verification accuracy, false acceptance and rejection rates, processing throughput, model size, and deployment trade-offs. [Explore the benchmark code and results](https://github.com/AfsanehNarimani/ekyc-face-verification-benchmark).
+
+[More articles on Medium](https://medium.com/@afsane.narimani)
+
+---
+
 ## Research Experience
 
 ### Research Assistant  
